@@ -1,4 +1,4 @@
-# 🎭 [Playwright](https://playwright.dev) for Java
+# 🎭 [Playwright](https://playwright.dev) for Java.
 
 [![javadoc](https://javadoc.io/badge2/com.microsoft.playwright/playwright/javadoc.svg)](https://javadoc.io/doc/com.microsoft.playwright/playwright)
 [![maven version](https://img.shields.io/maven-central/v/com.microsoft.playwright/playwright)](https://search.maven.org/search?q=com.microsoft.playwright)
